@@ -1,0 +1,17 @@
+{
+  "name": "geocode-service",
+  "version": "0.0.2",
+  "description": "GeoCode",
+  "main": "index.js",
+  "scripts": {
+   },
+  "dependencies": {
+    "express": "4.11.1",
+    "request": "2.45.0"
+  },
+  "devDependencies": {
+    "Faker": "git://github.com/Marak/Faker.js.git"
+  },
+
+}
+
